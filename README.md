@@ -12,7 +12,7 @@ Ahmed Alsinwar
 build an app that queries an API and uses the results to update the DOM.
 What you choose to build and how you choose to display the data is entirely up to you!
 
-## Pajes :
+## Pages :
 
 * indx page 
 * style page
