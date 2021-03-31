@@ -4,8 +4,8 @@
 
 
 ## Members Team :
-Saja Al-rantisi
-Ahmed Alsinwar
+* Saja Al-rantisi
+* Ahmed Alsinwar
 
 
 ## Fetch API Task
