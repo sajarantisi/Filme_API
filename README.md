@@ -35,4 +35,4 @@ Through it, elements can be attached to the console
 
 
 ## site imges :
-![Uploading screencapture-gsg-fc02-github-io-saja-Ahmed-API-2021-03-31-21_06_37.png…]()
+![screencapture-gsg-fc02-github-io-saja-Ahmed-API-2021-03-31-21_06_37](https://user-images.githubusercontent.com/46837680/113192261-385f7980-9267-11eb-859a-affbe165059f.png)
