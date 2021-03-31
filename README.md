@@ -19,7 +19,7 @@ What you choose to build and how you choose to display the data is entirely up t
 * script page 
 
 
-## indx page :
+## index page :
 It contains an entry and a search button
 Contains the main Div, including Div for image and Div for text.
 
