@@ -3,7 +3,7 @@
 ### Live Link : https://gsg-fc02.github.io/saja_Ahmed_API/
 
 
-## members Team :
+## Members Team :
 Saja Al-rantisi
 Ahmed Alsinwar
 
@@ -14,7 +14,7 @@ What you choose to build and how you choose to display the data is entirely up t
 
 ## Pages :
 
-* indx page 
+* index page 
 * style page
 * script page 
 
