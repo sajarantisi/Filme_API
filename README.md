@@ -1,11 +1,6 @@
-# saja_Ahmed_API
+# Filme_API
 
 ### Live Link : https://gsg-fc02.github.io/saja_Ahmed_API/
-
-
-## Members Team :
-* Saja Al-rantisi
-* Ahmed Alsinwar
 
 
 ## Fetch API Task
