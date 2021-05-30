@@ -20,15 +20,15 @@ fetch(url_api)
  //  سوف تاخد البيانات من THEN الاولى
 .then(data => {
     const film_img=document.createElement('img')
-    film_img.src=`http://image.tmdb.org/t/p/w342${data.poster_path}` //جلب البيانات من data 
+    film_img.src= `https://www.themealdb.com/images/${data.poster_path}` //جلب البيانات من data 
     // poster_path جلب القيمة المخزنة في 
       film_img.alt='Film poster' 
       img.appendChild(film_img) 
       
-    const film_name=document.createElement('p');
-    const film_name_span=document.createElement('span')
-    const film_name_span_node=document.createTextNode('- Film Name : ')
-    film_name_span.appendChild(film_name_span_node)
+        const film_name=document.createElement('p');
+        const film_name_span=document.createElement('span')
+        const film_name_span_node=document.createTextNode('- Film Name : ')
+        film_name_span.appendChild(film_name_span_node)
 
         const film_name_node=document.createTextNode(data.original_title)
         film_name.appendChild(film_name_span)
